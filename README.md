@@ -48,7 +48,8 @@ E-commerce Specialist based in Dubai, helping shops and brands sell better onlin
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
-
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudiocode&logoColor=white)
+![Devin](https://img.shields.io/badge/Devin-AI%20Software%20Engineer-1F6FEB)
 ## My Stats
 
 <p align="center">
