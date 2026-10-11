@@ -38,6 +38,7 @@ E-commerce Specialist based in Dubai, helping shops and brands sell better onlin
 - 🧵 [Noor Al Qamar Tailoring](https://github.com/dcabrera70074/noor-al-qamar-tailoring): demo website for a Tailoring & Embroidery shop in Deira, Dubai
 - 🚗 [Falcon Auto Detailing & Painting](https://github.com/cabreraderick90-wq/falcons-auto-care): auto detailing and painting website demo, Dubai
 - 🔧 [Auto Tune Service Centre](https://github.com/cabreraderick90-wq/autotune-dubai): car repair and maintenance website, Al Quoz, Dubai
+- 👕 [Thrift Savvy](https://derickcabrera109-lang.github.io/thrift-savvy/): vintage and branded thrift store website with WhatsApp inquiries, size guide and meet-up or delivery across Dubai
 
 ## Tech & Tools
 
